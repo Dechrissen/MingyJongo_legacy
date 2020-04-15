@@ -1,5 +1,5 @@
 # MingyJongo
- A chatbot for my personal Twitch channel
+ A chatbot for my personal Twitch channel.
  
  ## Chat commands
 - `!commands`
