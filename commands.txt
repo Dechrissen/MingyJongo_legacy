@@ -9,3 +9,4 @@
 !donate; Donation link: https://streamlabs.com/dechrissen
 !bot; MingyJongo documentation: https://dechrissen.github.io/MingyJongo/
 !goal; Final stretch goal: 50 sub points for my 5th (and final) Tier 1 emote slot. I need 10 more. dechriYikes If somehow I get close enough to 50, I will gift the last few subs. :) I don't expect any subs! I appreciate you just being here.
+!ruby; https://pastebin.com/7pwF7uU8
