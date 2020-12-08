@@ -4,9 +4,7 @@
 !jamjars; On each silo, there is an 11% chance that Jamjars will bonk, which loses around 5 seconds.
 !klungo; Klungo's potion color is random (red, blue, or green) and each one makes Klungo do something different. More info here: https://pastebin.com/xdnB1v31
 !bkdiscord; Banjo Speedrunning Discord server: https://discord.gg/FBDy5WK
-!discord; Dechrissen's Discord server: https://discord.gg/tCkEkXT
+!discord; Dechrissen's Discord server: https://discord.gg/VrTRgHfjgt
 !youtube; Dechrissen's YouTube channel: https://www.youtube.com/channel/UCikqob1wsJAbEkSIG6bMjbg
 !donate; Donation link: https://streamlabs.com/dechrissen
 !bot; MingyJongo documentation: https://dechrissen.github.io/MingyJongo/
-!goal; Final stretch goal: 50 sub points for my 5th (and final) Tier 1 emote slot. I need 10 more. dechriYikes If somehow I get close enough to 50, I will gift the last few subs. :) I don't expect any subs! I appreciate you just being here.
-!ruby; https://pastebin.com/7pwF7uU8
